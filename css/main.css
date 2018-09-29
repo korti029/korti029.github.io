@@ -4,7 +4,6 @@ body {
     font-family: 'Cinzel';
 }
 nav ul, footer ul {
-    font-family:'Cinzel', serif;
     padding: 0px;
     list-style: none;
 }
@@ -21,7 +20,6 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Cinzel', serif;
 }
 p {
     font-size: 1.5em;
