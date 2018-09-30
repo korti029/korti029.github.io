@@ -27,7 +27,7 @@ p {
     color: #333;
 }
 
-h1, p
+container
 {
     background-image: url("Background.jpg");
     background-repeat: none;
